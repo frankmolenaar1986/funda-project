@@ -1,6 +1,6 @@
 Project info
 ==============
-This project is meant as an introduction talk with Funda.
+This project is meant for an introduction talk with Funda.
 
 Summary
 --------------
